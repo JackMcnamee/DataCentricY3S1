@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Apr/2020:16:23:44 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:23:45 +0100] "GET /Store/WEB-INF/classes/com/shops/DAO.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:23:59 +0100] "GET /Store/faces/index.xhtml HTTP/1.1" 200 1128
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:23:59 +0100] "GET /Store/faces/javax.faces.resource/jsf.js?ln=javax.faces HTTP/1.1" 200 41988
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:02 +0100] "POST /Store/faces/index.xhtml HTTP/1.1" 200 5088
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:02 +0100] "GET /Store/faces/javax.faces.resource/tables.css;jsessionid=4E1CA77B5E3AE553208051DE8B2078F5?ln=css HTTP/1.1" 200 465
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:02 +0100] "GET /Store/faces/javax.faces.resource/styles.css;jsessionid=4E1CA77B5E3AE553208051DE8B2078F5?ln=css HTTP/1.1" 200 311
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:04 +0100] "POST /Store/faces/list_stores.xhtml;jsessionid=4E1CA77B5E3AE553208051DE8B2078F5 HTTP/1.1" 200 1128
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:06 +0100] "GET /Store/faces/list_products.xhtml HTTP/1.1" 200 9931
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:06 +0100] "GET /Store/faces/javax.faces.resource/tables.css?ln=css HTTP/1.1" 200 465
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:11 +0100] "POST /Store/faces/list_products.xhtml HTTP/1.1" 200 1128
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:13 +0100] "GET /Store/faces/list_offices.xhtml HTTP/1.1" 200 2878
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:13 +0100] "GET /Store/faces/javax.faces.resource/styles.css?ln=css HTTP/1.1" 200 311
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:16:24:16 +0100] "POST /Store/faces/list_offices.xhtml HTTP/1.1" 200 1128

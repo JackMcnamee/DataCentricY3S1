@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\User\19-20\Sem 1\Data Centric\DataCentricProj\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3540538919.index
+1420174231.index
+2173199993.index
+4238257538.index
+451670850.index
+391771112.index
